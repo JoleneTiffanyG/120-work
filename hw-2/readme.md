@@ -50,4 +50,4 @@ So that's where I'm starting, until I know enough to know better and can make a 
 I definitely did not have anything to offer help-wise to my fellows this week.  I read everything that was posted, and the responses of the wonderful people who put in the time to try to assist, and quite frankly I didn't understand the questions themselves, let alone the answers.  In our initial forum thread I enjoyed responding to what the others had to contribute, it made it feel more like an actual class.  But I didn't exactly have anothing constructive to offer other than support.  I am hoping to advance quickly enough that I can at least understand what people are asking in the issues forum for next week, and if I don't know the answer, I'll use my best Google skills and try to at least share some links for forums that seem to be discussing a similar issue.  Obviously I'll include a caveat clarifying that I may not be the best resource, but one of my ultimate goals for the class to not just keep up, but to hone my problem solving skills so as to be an asset.
 
 
-![Image of my editor](Screenshot-markdown.jpg) 
+![Image of my editor](screenshot-markdown.jpg) 
